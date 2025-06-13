@@ -42,7 +42,7 @@ const FEEDBACK_TYPE = {
   4: (
     <Flex align="center" gap={5}>
       <Feedback4 />
-      <span>Tâm sự cùng NEW88</span>
+      <span>Tâm sự cùng 789BET</span>
     </Flex>
   ),
   5: (
